@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include fns_crm_enhancement *.css
+recursive-include fns_crm_enhancement *.csv
+recursive-include fns_crm_enhancement *.html
+recursive-include fns_crm_enhancement *.ico
+recursive-include fns_crm_enhancement *.js
+recursive-include fns_crm_enhancement *.json
+recursive-include fns_crm_enhancement *.md
+recursive-include fns_crm_enhancement *.png
+recursive-include fns_crm_enhancement *.py
+recursive-include fns_crm_enhancement *.svg
+recursive-include fns_crm_enhancement *.txt
+recursive-exclude fns_crm_enhancement *.pyc
