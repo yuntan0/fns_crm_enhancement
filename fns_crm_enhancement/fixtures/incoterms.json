@@ -1,0 +1,90 @@
+[
+ {
+  "description": "COST INSURANCE AND FREIGHT \uc6b4\uc784\u2024\ubcf4\ud5d8\ub8cc\ud3ec\ud568\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "CIF",
+  "modified": "2022-08-09 21:45:26.763925",
+  "name": "CIF"
+ },
+ {
+  "description": "FREE ON BOARD \ubcf8\uc120\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "FOB",
+  "modified": "2022-08-09 21:45:45.628278",
+  "name": "FOB"
+ },
+ {
+  "description": "CARRIAGE AND INSURANCE PAID TO \uc6b4\uc1a1\ube44\u2024\ubcf4\ud5d8\ub8cc\uc9c0\uae09\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "CIP",
+  "modified": "2022-08-09 21:46:19.586221",
+  "name": "CIP"
+ },
+ {
+  "description": "EX WORKS \uacf5\uc7a5\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "EXW",
+  "modified": "2022-08-09 21:46:33.531714",
+  "name": "EXW"
+ },
+ {
+  "description": "FREE CARRIER \uc6b4\uc1a1\uc778 \uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "FCA",
+  "modified": "2022-08-09 21:47:05.994655",
+  "name": "FCA"
+ },
+ {
+  "description": "CARRIAGE PAID TO \uc6b4\uc1a1\ube44\uc9c0\uae09\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "CPT",
+  "modified": "2022-08-09 21:47:47.108131",
+  "name": "CPT"
+ },
+ {
+  "description": "DELIVERED AT PLACE \ub3c4\ucc29\uc7a5\uc18c\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "DAP",
+  "modified": "2022-08-09 21:53:51.963989",
+  "name": "DAP"
+ },
+ {
+  "description": "DELIVERED AT PLACE UNLOADED \ub3c4\ucc29\uc9c0\uc591\ud558\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "DPU",
+  "modified": "2022-08-09 21:54:04.695354",
+  "name": "DPU"
+ },
+ {
+  "description": "DELIVERED DUTY PAID \uad00\uc138\uc9c0\uae09\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "DDP",
+  "modified": "2022-08-09 21:54:32.770082",
+  "name": "DDP"
+ },
+ {
+  "description": "FREE ALONGSIDE SHIP \uc120\uce21\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "FAS",
+  "modified": "2022-08-09 21:54:45.210656",
+  "name": "FAS"
+ },
+ {
+  "description": "COST AND FREIGHT \uc6b4\uc784\ud3ec\ud568\uc778\ub3c4",
+  "docstatus": 0,
+  "doctype": "Incoterms",
+  "incoterms": "CFR",
+  "modified": "2022-08-09 21:55:14.497381",
+  "name": "CFR"
+ }
+]

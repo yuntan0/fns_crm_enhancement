@@ -194,5 +194,5 @@ app_license = "MIT"
 # For example: Role, Gender, etc.
 # translated_search_doctypes = []
 fixtures=[
-    "Client Script"	
+    "Client Script"	,"Incoterms"
 ]
