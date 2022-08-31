@@ -124,7 +124,7 @@
    "search_index": 0,
    "translatable": 1,
    "unique": 0,
-   "width": "1"
+   "width": "100px"
   },
   {
    "_assign": null,
@@ -187,7 +187,7 @@
    "search_index": 0,
    "translatable": 1,
    "unique": 0,
-   "width": "1"
+   "width": "100px"
   },
   {
    "_assign": null,
@@ -439,13 +439,39 @@
    "search_index": 0,
    "translatable": 1,
    "unique": 0,
-   "width": "1"
+   "width": "100px"
   }
  ],
  "custom_perms": [],
  "doctype": "Opportunity Item",
  "links": [],
  "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2022-08-30 18:33:22.603583",
+   "default_value": null,
+   "doc_type": "Opportunity Item",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "qty",
+   "idx": 0,
+   "is_system_generated": 0,
+   "modified": "2022-08-30 18:33:22.603583",
+   "modified_by": "Administrator",
+   "module": null,
+   "name": "Opportunity Item-qty-width",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "width",
+   "property_type": "Data",
+   "row_name": null,
+   "value": "100px"
+  },
   {
    "_assign": null,
    "_comments": null,
@@ -521,32 +547,6 @@
    "parenttype": null,
    "property": "columns",
    "property_type": "Int",
-   "row_name": null,
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2022-08-22 16:00:39.430835",
-   "default_value": null,
-   "doc_type": "Opportunity Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "qty",
-   "idx": 0,
-   "is_system_generated": 0,
-   "modified": "2022-08-22 16:00:39.430835",
-   "modified_by": "Administrator",
-   "module": null,
-   "name": "Opportunity Item-qty-width",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "width",
-   "property_type": "Data",
    "row_name": null,
    "value": "1"
   },
