@@ -194,5 +194,20 @@ app_license = "MIT"
 # For example: Role, Gender, etc.
 # translated_search_doctypes = []
 fixtures=[
-    "Client Script"	,"Incoterms" ,"Server Script"
+	 {"dt": "Client Script", "filters": [
+        [
+            "name", "in", [
+                "Port Code Validation for Sales order",
+                "Port Code Validation for Quotation" ,
+                "Port Code Validation"
+            ]
+        ]
+    ]}	,"Incoterms" 
+    ,{"dt": "Server Script", "filters": [
+        [
+            "name", "in", [
+                "Opportunity Add KRW"
+            ]
+        ]
+    ]}	
 ]
