@@ -3,5 +3,4 @@
 *.egg-info
 *.swp
 tags
-fns_crm_enhancement/docs/current
-node_modules/
+common_doc/docs/current
