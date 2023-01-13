@@ -1,0 +1,66 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-01-11 22:25:45.379957",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "biz_mode",
+  "commodity",
+  "route",
+  "expected_load",
+  "uom"
+ ],
+ "fields": [
+  {
+   "columns": 2,
+   "fieldname": "biz_mode",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Biz Mode",
+   "options": "Business Unit"
+  },
+  {
+   "columns": 2,
+   "fieldname": "commodity",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Commodity"
+  },
+  {
+   "columns": 2,
+   "fieldname": "route",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Route"
+  },
+  {
+   "columns": 2,
+   "fieldname": "expected_load",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "Expected Load"
+  },
+  {
+   "columns": 2,
+   "fieldname": "uom",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "UOM",
+   "options": "UOM"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2023-01-11 22:27:07.284028",
+ "modified_by": "Administrator",
+ "module": "Fns Crm Enhancement",
+ "name": "CRM Logistic Info",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
