@@ -196,13 +196,11 @@ app_license = "MIT"
 fixtures=[
 	 {"dt": "Client Script", "filters": [
         [
-            "name", "in", [
-                "Port Code Validation for Sales order",
-                "Port Code Validation for Quotation" ,
-                "Port Code Validation"
+            "module", "in", [
+                "Fns Crm Enhancement"
             ]
         ]
-    ]}	,"Incoterms" 
+    ]} 
     ,{"dt": "Server Script", "filters": [
         [
             "name", "in", [
